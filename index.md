@@ -16,6 +16,8 @@ name: home
 
 * [Advanced Vagrant](/Advanced-Vagrant)
 
+* [Introduction To Linux](/Introduction-to-Linux)
+
 ## Old Presentations
 
 You can find my old presentations [here](http://blog.friocorte.com/presentation/).
