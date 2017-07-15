@@ -18,6 +18,10 @@ name: home
 
 * [Introduction To Linux](/Introduction-to-Linux)
 
+* [One Node Kubernetes Cluster](/One-Node-k8s-Cluster)
+
+* [One Node Kubernetes Cluster](/Smart-Dumb-Doorbell)
+
 ## Old Presentations
 
 You can find my old presentations [here](http://blog.friocorte.com/presentation/).
