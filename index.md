@@ -20,7 +20,7 @@ name: home
 
 * [One Node Kubernetes Cluster](/One-Node-k8s-Cluster)
 
-* [One Node Kubernetes Cluster](/Smart-Dumb-Doorbell)
+* [Smart; Dumb Doorbell](/Smart-Dumb-Doorbell)
 
 ## Old Presentations
 
